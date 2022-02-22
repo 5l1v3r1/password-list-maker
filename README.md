@@ -21,7 +21,7 @@ __________________
 <h3>دستورات نصب:</h3>
 <br>
  ابتدا وارد ترموکس بشید و با دستور زیر اسکریپت رو دانلود کنید
-<br><pre>git clone https://github.com/HACKGM/password-list-maker</pre>
+<br><pre>git clone https://github.com/tHACKGM/password-list-maker</pre>
 سپس با دستور زیر وارد پوشه اسکریپت بشید:
 <br><pre>
 cd password-list-maker
